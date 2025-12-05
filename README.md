@@ -1,0 +1,1 @@
+This is a game for casual players and nostalgic game lovers. It is based on the gameplay of the classic game Bomberman, which is to place bombs, destroy obstacles, defeat enemies, and find the exit. On this basis, I added some props and different monsters to make the game more playable.
